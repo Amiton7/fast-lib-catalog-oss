@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Poetry virtualenvs (if ever created inside the project)
+.venv/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Build / packaging
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
